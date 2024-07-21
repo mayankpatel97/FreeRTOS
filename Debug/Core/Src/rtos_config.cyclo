@@ -1,0 +1,2 @@
+../Core/Src/rtos_config.c:4:6:vApplicationGetIdleTaskMemory	1
+../Core/Src/rtos_config.c:16:6:vApplicationGetTimerTaskMemory	1
